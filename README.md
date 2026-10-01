@@ -14,6 +14,10 @@
 
 应用不申请联网权限；课程和任务保存在设备本地。请自行备份重要数据，卸载应用前尤其如此。当前项目主要按个人使用场景开发，尚未完成在所有 Android 设备上的兼容性验证。
 
+## 下载安装
+
+前往 [GitHub Releases](https://github.com/1938996373/campus-time-android/releases/latest) 下载最新版 APK，安装到 Android 8.0 或更新版本的设备。升级前建议先在应用内导出 JSON 备份。安装包与发布说明中的 SHA-256 校验值可用于核对下载文件。
+
 ## 从源码构建
 
 需要 JDK 17 或 21、Android SDK 36。仓库自带 Gradle Wrapper，首次构建需要下载 Android 构建依赖。
